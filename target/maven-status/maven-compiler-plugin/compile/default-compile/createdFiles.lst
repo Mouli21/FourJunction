@@ -1,0 +1,4 @@
+basePack\BaseClassTest.class
+testPages\HomePage.class
+testPages\SearchResultPage.class
+testPages\ProductPage.class
