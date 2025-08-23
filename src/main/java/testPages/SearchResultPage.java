@@ -52,7 +52,7 @@ public	List<WebElement> p_rating;
 	}
 	
 	public SearchResultPage productPage() {	
-		driver.findElement(By.xpath("//span[contains(text(),'HP ')]")).click();
+		driver.findElement(By.xpath("//h2//span[contains(text(),'HP ')]")).click();
 		
 		return new ProductPage();	
 

@@ -1,4 +1,6 @@
+testCases\InvalidInput.class
+testCases\ValidInput.class
+testPages\ProductPage.class
 basePack\BaseClassTest.class
 testPages\HomePage.class
 testPages\SearchResultPage.class
-testPages\ProductPage.class
